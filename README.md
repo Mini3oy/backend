@@ -17,7 +17,7 @@
    ```bash
    npm install
    ```
-.
+```.
 +-- _config.yml
 +-- _drafts
 |   +-- begin-with-the-crazy-ideas.textile
@@ -35,6 +35,7 @@
 |   +-- members.yml
 +-- _site
 +-- index.html
+```
 
 3. Set up environment variables:
    Create a `.env.development` file in the backend directory with the following content:
