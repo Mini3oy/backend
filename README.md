@@ -17,6 +17,10 @@
    ```bash
    npm install
    ```
+/   
+= src
+== config
+=== database.js
 
 3. Set up environment variables:
    Create a `.env.development` file in the backend directory with the following content:
