@@ -17,7 +17,7 @@
    ```bash
    npm install
    ```
-/   
+.  
 = src
 == config
 === database.js
